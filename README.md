@@ -3,7 +3,7 @@
 
 **# S.H.I.V.I.: Smart Humanistic Interface Virtual Intelligence**
   
-live DEMO: ( )
+live DEMO: (https://vishalrajbhardwaj.github.io/Shivi/ )
 
 ## Overview
 
